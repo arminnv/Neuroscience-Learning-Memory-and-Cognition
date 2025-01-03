@@ -3,8 +3,8 @@ This repository contains the coursework materials for the graduate course "Neuro
 
 ## Repository Structure
 
-- `HW1/`: 
-- `HW2/`:  Analyzing LFP data using time-varying phase-amplitude coupling
+- `HW1/`: Processing LFP data, ERP, PLV, PLI, wPLI
+- `HW2/`: Analyzing LFP data using time-varying phase-amplitude coupling
 - `HW3/`: Modeling visual cortex by fine-tuning AlexNet on fMRI data
 - `Project/`: Solving Maze Using Deep Reinforcement Learning
 
